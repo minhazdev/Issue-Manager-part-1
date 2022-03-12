@@ -1,0 +1,22 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Recursive:wght@300;400;500;600;700;800&display=swap');
+
+
+body{
+font-family:'Recursive',sans-serif !important;
+}
+
+
+form label {
+    font-style: italic;
+}
+.issue-brand{
+ font-family:'Lobster',sans-serif !important;
+ font-size:1.5rem !important;
+ margin-right: auto !important;
+}
+
+.badge {
+    color:#a56a21 !important;
+}
